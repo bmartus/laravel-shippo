@@ -1,0 +1,21 @@
+{
+    "name": "bmartus/laravel-shippo",
+    "description": "Shippo for Laravel 5",
+    "authors": [
+        {
+            "name": "Brandon Martus",
+            "email": "bmartus@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "illuminate/support": "~5.2",
+        "shippo/shippo-php": "~1.1"
+    },
+    "autoload": {
+        "psr-0": {
+            "Bmartus\\LaravelShippo": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
