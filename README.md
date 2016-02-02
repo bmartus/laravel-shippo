@@ -39,11 +39,9 @@ A quick example in `routes.php`:
 ~~~
 <?php
 
-use Shippo\Shippo_Address;
-
 Route::get('/address', function() {
 
-    return Shippo_Address::create([
+    return \Shippo_Address::create([
         'object_purpose' => 'QUOTE',
         'name' => 'John Smith',
         'company' => 'Initech',
