@@ -1,6 +1,7 @@
 {
     "name": "bmartus/laravel-shippo",
     "description": "Shippo for Laravel 5",
+    "license": "MIT",
     "authors": [
         {
             "name": "Brandon Martus",
