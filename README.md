@@ -26,7 +26,7 @@ Add the ServiceProvider to your provider array within `app/config/app.php`:
 
 Add the following to your `.env` file:
 ~~~
-SHIPPO_API_KEY=key_from_easypost
+SHIPPO_API_KEY=key_from_shippo
 ~~~
 
 ### Usage
