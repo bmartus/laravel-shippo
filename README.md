@@ -1,7 +1,7 @@
-Shippo for Laravel 5
+Shippo for Laravel 5.2
 ==============
 
-Integrates the Shippo PHP library with Laravel 5 via a ServiceProvider.
+Integrates the Shippo PHP library with Laravel 5.2 via a ServiceProvider.
 
 ### Installation
 
